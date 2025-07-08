@@ -4,6 +4,18 @@ A sleek React application that lets users explore trending movies, TV shows, act
 
 ---
 
+## 🔗 Live Website
+
+[Visit Site](https://movieworld4all.netlify.app/) 🚀
+
+---
+
+## 📸 Preview
+
+![Portfolio Preview](/DemoImage.png)
+
+---
+
 ## 🚀 Features
 
 1. **Trending, Popular & Latest** lists (movies, TV shows, actors)
