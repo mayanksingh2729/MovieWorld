@@ -12,7 +12,7 @@ A sleek React application that lets users explore trending movies, TV shows, act
 
 ## 📸 Preview
 
-![Portfolio Preview](/DemoImage.png)
+![Portfolio Preview](/public/DemoImage.png)
 
 ---
 
